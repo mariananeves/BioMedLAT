@@ -1,0 +1,1 @@
+List five applications of machine learning algorithms in medical diagnosis.
