@@ -1,0 +1,1 @@
+List scaffold proteins of the ERK signaling pathway.
