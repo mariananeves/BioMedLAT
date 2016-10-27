@@ -1,4 +1,4 @@
-# BioMedLAT
+# BioMedLAT Corpus
 Corpus of BioASQ questions annotated with the headword and the expected lexical answer type.
 
 If you use our corpus, please cite our paper:
