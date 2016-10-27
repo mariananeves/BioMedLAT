@@ -1,0 +1,1 @@
+List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).
