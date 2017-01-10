@@ -1,8 +1,7 @@
 # BioMedLAT Corpus
 Corpus of BioASQ questions annotated with the headword and the expected lexical answer type.
 
-For mode details on the annotation and on the corpus, please check our paper below.
-If you use our corpus, please cite our paper.
+You can download the corpus clicking on the "clone or download" button. For mode details on the annotations and on the corpus, please check our paper below. If you use our corpus, please cite our paper.
 
 Mariana Neves and Milena Kraus. BioMedLAT Corpus: Annotation of the Lexical Answer Type for Biomedical Questions, Open Knowledge Base and Question Answering Workshop, Coling 2016, Osaka, Japan. [accepted]
 
